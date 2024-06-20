@@ -4,7 +4,7 @@
 
 ### Hi there, I am LI jintao👋
 
-> A Front end developer from **HangZhou, China**.
+> A Front end developer from **ChengDu, China**.
 
 ### 🏗️ Learning:
 
@@ -19,14 +19,9 @@
 - **QQ** : 154676742
 - **E-mail** : lijintao128@163.com
 
-### 🏠 Blog:
-
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
 
 <!--
 **lijintao950830/lijintao950830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 Here are some ideas to get you started:
 
