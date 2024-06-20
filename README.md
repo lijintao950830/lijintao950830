@@ -1,8 +1,4 @@
-## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijintao950830)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hi there, I am LI jintao👋
+## Hi there, I am LI jintao👋
 
 > A Front end developer from **ChengDu, China**.
 
@@ -19,6 +15,7 @@
 - **QQ** : 154676742
 - **E-mail** : lijintao128@163.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijintao950830)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lijintao950830/lijintao950830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
